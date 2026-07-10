@@ -1,5 +1,11 @@
 # 🧠 Smart Quiz Game Pro
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange)
+
 A modern GUI-based Quiz Game developed in Python using CustomTkinter.
 
 ## 📌 Features
